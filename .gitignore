@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+misc.xml
+modules.xml
+*.iml
+vcs.xml
+.idea/*
+*.class
